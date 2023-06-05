@@ -42,7 +42,7 @@
 
 .img-team img {
     width: 250px;
-    border: 5px solid rgb(241, 136, 136);
+    border: 5px solid rgb(128, 122, 214);
 }
 
 
@@ -56,3 +56,10 @@
    margin-left: 0.4rem;
    width: 35px;
 }
+
+.contactUs{
+    background-image: url(img/map.jpeg);
+    background-position: center;
+    color: #eee;
+}
+
