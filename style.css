@@ -22,6 +22,7 @@
     text-align: center;
 }
 
+
 .makeCircle {
     height: 150px;
     width: 150px;
@@ -30,4 +31,28 @@
     align-items: center;
     justify-content: center;
     margin: auto;
+
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.img-team img {
+    width: 250px;
+    border: 5px solid rgb(241, 136, 136);
+}
+
+
+
+
+.our-team a i{
+   padding: 0.6rem;
+   background-color: #333333;
+   color: white;
+   border-radius: 50%;
+   margin-left: 0.4rem;
+   width: 35px;
 }
