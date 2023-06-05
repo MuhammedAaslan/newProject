@@ -5,7 +5,7 @@
 }
 
 .background-main {
-    height: calc(100vh - 55px);
+    height: 100vh;
     background-image: url(img/banner.jpeg);
     background-position: center;
     background-size: cover;
